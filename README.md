@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gutentog
-- 👀 I’m interested in Python programming, Arduino projects
+- 👀 I’m interested in Python programming and Arduino projects
 - 🌱 I’m currently learning Google IT Automation with Python
-- 💞️ I’m looking to collaborate on Arduino sketches and Python scripts
+- 💞️ I’m looking to collaborate on Arduino sketches and Python algorithmic trading scripts
 - 📫 How to reach me lgutentog@gmail.com
 
 <!---
